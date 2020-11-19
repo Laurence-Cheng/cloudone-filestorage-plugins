@@ -142,7 +142,7 @@ After a scan occurs, this example Lambda function places clean files in one buck
 2. **Add function code**
     - Download the 'Promote or Quarantine' [handler.py file from GitHub](https://github.com/trendmicro/cloudone-filestorage-plugins/blob/master/post-scan-actions/aws-python-promote-or-quarantine/handler.py).
     - On the AWS console page you left open, in the **Function code** section, remove the sample Lambda function code and paste the code from `handler.py`.
-    - Click **Save** at leave the page open.
+    - Click **Deploy** at leave the page open.
 3. **Add environment variables**
     - Scroll to the **Environment variables** section.
     - Click **Edit** (on the right).
